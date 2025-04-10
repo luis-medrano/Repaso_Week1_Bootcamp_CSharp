@@ -143,7 +143,7 @@
                         total++;
                     }
                 }
-                if (total > 0) 
+                if (total > 1) 
                     Console.WriteLine("El numero " + numerosArray[i1] + " tiene repetidos: " + total);
                 else
                     Console.WriteLine("El numero " + numerosArray[i1] + " no tiene repetidos");
